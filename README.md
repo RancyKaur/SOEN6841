@@ -6,3 +6,5 @@ This repository is dedicated to document my learning journey in the form of docu
 Additionally there are exercieses that are documented as well
 
 Please refer to this wiki to check the concepts that are covered in the course that I learned: https://github.com/RancyKaur/SOEN6841/wiki
+
+This wiki is regularly updated especially before Saturday midnight :)
